@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+
 import requests
 
 url = "https://invoice.etax.nat.gov.tw/index.html"
